@@ -1,1 +1,2 @@
 # Breast-Cancer
+The breast cancer data set is consisting  of 699 samples of various cancer pateints. The 'class' column represents whether the cancer is malignant or benign. Here I dropped the 'id' column because it is an irrelavant data for diagnosing cancer. We calculated the accuracy on the dataset and in the end, we predicted on some new data. If the cancer is malignant, it returns 4 and if benign it returns 2.
